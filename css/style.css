@@ -1,0 +1,157 @@
+
+html {
+	scroll-behavior: smooth;
+  }
+  
+  a {
+	text-decoration: none;
+	color: white;
+	border-radius: .25rem;
+	text-align: center;
+	display: inline-block;
+	transition: all .3s;
+  }
+  
+  a:hover {
+	opacity: .6;
+	
+  }
+  
+  .clearfix::before, .clearfix::after, .container::before, .container::after, .container-fluid::before, .container-fluid::after, .row::before, .row::after {
+	content: " ";
+	display: table;
+  }
+ .container-fluid, .container {
+	max-width: 1310px;
+  }
+  /* Main header content */
+  
+  .page-header {
+	z-index: 10;
+	display: block;
+	position: relative;
+  }
+  .container {
+	position: relative;
+	background-color: #f72210;
+	padding: 0 !important;
+	max-width: 1310px !important;
+  }
+  .header-top {
+	height: 5rem;
+	padding: 20px 10px 15px;
+	position: relative;
+	z-index: 2;
+	-webkit-align-items: flex-end;
+	align-items: flex-end;
+  }
+  .flex-xs-6 {
+	width: 50%;
+	height: 36px;
+  }
+  .flex-xs {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: space-between;
+	justify-content: space-between;
+  }
+  .right-menu {
+	-webkit-justify-content: flex-end;
+	justify-content: flex-end;
+  }
+  .header-date, .sign-in-btn {
+	color: #fff;
+  }
+  .subs-btn {
+	background-color: #fff;
+	color: #f72210;
+  }
+  .subs-btn:hover {
+	background-color: #fff;
+	color: #f72210;
+  }
+  .sign-in-btn, .subs-btn {
+	position: relative;
+	font: bold 14px/14px "Roboto Condensed", sans-serif;
+	font-size: 16px;
+	text-transform: uppercase;
+	display: inline-block;
+	padding: 10px 12px;
+	float: right;
+  }
+  .sign-in-btn:hover {
+	color: #fff;
+  }
+  .header-middle {
+	-moz-transform: translate(-50%, 0);
+	-ms-transform: translate(-50%, 0);
+	-webkit-transform: translate(-50%, 0);
+	transform: translate(-50%, 0);
+	position: absolute;
+	z-index: 3;
+	top: 0;
+	left: 50%;
+	padding: 10px 15px;
+	cursor: pointer;
+  }
+  .navbar {
+	background-color: #fff !important;
+	border-bottom: 2px solid #f4f5f6;
+	padding-top: 10px !important;
+	padding-bottom: 10px !important;
+  }
+  .navbar::before {
+	position: absolute;
+	top: 0;
+	right: 0;
+	content: "";
+	display: block;
+	width: 66px;
+	background-color: #f72210;
+	border-left: 12px solid #fff;
+	border-top: 13px solid #f72210;
+  }
+  .navbar-nav {
+	font-size: 19px;
+	line-height: 24px;
+	font-weight: 700;
+	font-family: "Roboto Condensed", sans-serif;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: center;
+	justify-content: center;
+	width: 100%;
+  }
+  ul.navbar-nav li {
+	border-left: 1px solid #d9d9d9 !important;
+	padding: 0;
+	-webkit-flex-grow: 1;
+	flex-grow: 1;
+	text-align: center;
+  }
+  ul.navbar-nav li:first-child {
+	border-left-width: 0 !important;
+  }
+  .nav-link {
+	color: #000 !important;
+  }
+  .nav-link:hover {
+	color: #f72210 !important;
+  }
+  .navbar-text {
+	display: none !important;
+  }
+.trending{
+	font-size: 1.2rem;
+	font-weight:bold;
+	position: relative;
+	left:20rem;
+	
+}
+  .head-trending{
+	border-bottom: 1px solid gainsboro;
+	background-color: white;
+	
+  }
+  
+  /*main section start */
