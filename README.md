@@ -1,7 +1,7 @@
 # -Newsweek-Using-Bootstrap
 This project is clone of news site Newsweek.com using the Bootstrap framework.
 This project is based on HTML, CSS, BOOTSTRAP AND JS.\
-This is a solo project.
+This is a solo project."
 
 Contributor ,
 
