@@ -10,4 +10,4 @@ Brham Dev Mahato https://github.com/dev1980
 
 Preview
 
-https://dev1980.github.io/DESIGN-TEARDOWN/
+https://dev1980.github.io/Newsweek-Using-Bootstrap/
