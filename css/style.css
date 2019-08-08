@@ -21,7 +21,7 @@ body {
 	position: relative;
 }
 
-#navscroll {
+.navscroll {
 	position: relative;
 	margin: auto;
 	background-color: #f72210;
@@ -57,7 +57,7 @@ body {
 	font-size: 16px;
 }
 
-#signin {
+.signin {
 	margin-right: 20px;
 	font-size: 18px;
 	font-weight: 600;
@@ -65,7 +65,7 @@ body {
 	bottom: 10px;
 }
 
-#signin a {
+.signin a {
 	text-decoration: none;
 	color: #f72210;
 	background-color: #fff;
@@ -78,7 +78,7 @@ body {
 	z-index: 9999;
 }
 
-#signin span {
+.signin span {
 	padding-right: 10px;
 }
 
@@ -632,7 +632,7 @@ footer {
 		color: #fff;
 	}
 
-	#navscroll {
+	.navscroll {
 		padding: 3px 0px;
 	}
 
@@ -640,12 +640,12 @@ footer {
 		display: none;
 	}
 
-	#signin {
+	.signin {
 		font-size: 14px;
 		bottom: 0px;
 	}
 
-	#signin a {
+	.signin a {
 		padding: 6px;
 	}
 
