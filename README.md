@@ -26,7 +26,7 @@ Contributions, issues and feature requests are welcome! Feel free to check [issu
 5. Create a new pull request
 
 
-## Contributors
+## Contributor
 
 -Brham Dev Mahato https://github.com/dev1980
 
