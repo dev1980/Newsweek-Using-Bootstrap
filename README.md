@@ -1,5 +1,5 @@
 # -Newsweek-Using-Bootstrap
-This project is clone of news site Newsweek.com using the Bootstrap framework.
+This project is a clone of news site Newsweek.com using the Bootstrap framework.
 This is a solo project.
 
 ## Technologies used
@@ -17,7 +17,7 @@ This is a solo project.
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome! Feel free to check [issues page](https://github.com/dev1980/Newsweek-Using-Bootstrap/issues)
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/dev1980/Newsweek-Using-Bootstrap/issues)
 
 1. Fork it (https://github.com/dev1980/Newsweek-Using-Bootstrap/fork)
 2. Create your working branch (git checkout -b [choose-a-name])
@@ -46,7 +46,3 @@ This project is [MIT]() licensed.
 - [LinkedIn](https://www.linkedin.com/in/dev1980/)
 - [Twitter](https://twitter.com/MahatoBrham) 
 - <brham1980@gmail.com>.
-
-
-
-
